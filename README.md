@@ -1,6 +1,6 @@
 # Adaptive Multi-Teacher Multi-level Knowledge Distillation(AMTML-KD)
 
-Paper accepted by Neurocomputing, 2020.07.
+Paper accepted by Neurocomputing 415(2020): 106–113.
 
 By Yuang Liu, Wei Zhang and Jun Wang.
 
