@@ -2,7 +2,7 @@
 
 Paper accepted by Neurocomputing 415(2020): 106–113.
 
-By Yuang Liu, Wei Zhang and Jun Wang.
+By [Yuang Liu](https://flhonker.github.io/), Wei Zhang and Jun Wang.
 
 ## Requirements
 
@@ -16,7 +16,7 @@ Knowledge distillation (KD) is an effective learning paradigm for improving the 
 
 ![adaptive](./figures/Fig1.png)
 
-![framework](./figures/fig2.png)
+![framework](./figures/Fig2.png)
 
 ![multi-teacher](figures/Fig3.png)
 
